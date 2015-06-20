@@ -1,0 +1,2 @@
+-e git://github.com/dnouri/nolearn.git#egg=nolearn
+-e file:///home/vagrant/xgboost/wrapper#egg=xgboost

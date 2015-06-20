@@ -1,0 +1,12 @@
+name: crowdflower
+dependencies:
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- gensim
+- cython
+- beautiful-soup
+- nltk
+- requests
+- lxml
