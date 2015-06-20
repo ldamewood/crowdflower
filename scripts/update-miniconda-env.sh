@@ -1,4 +1,5 @@
 #!/bin/bash
+source "/vagrant/scripts/common.sh"
 
 sudo -u vagrant $MINICONDA_PATH/bin/conda update --yes conda
 sudo -u vagrant $MINICONDA_PATH/bin/conda env update --file=$MINICONDA_ENV_FILE
